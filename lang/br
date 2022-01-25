@@ -17,10 +17,10 @@
         <meta name="HandheldFriendly" content="True" />
         <meta name="MobileOptimized" content="320" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="shortcut icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
-        <link rel="icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
+        <link rel="shortcut icon" href="http://nerds-ufes.github.io/img/png/favicon.png" type="image/x-icon">
+        <link rel="icon" href="http://nerds-ufes.github.io/img/png/favicon.png" type="image/x-icon">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link href="http://nerds.ufes.br/css/base.css" rel="stylesheet">
+        <link href="http://nerds-ufes.github.io/css/base.css" rel="stylesheet">
     </head>
     <body>
         <div id="top"></div>
@@ -28,29 +28,29 @@
             <section class="vitrine">
         <section>
             <div>
-                <img src="http://nerds.ufes.br/img/svg/logoVetorizado.svg  " />
+                <img src="http://nerds-ufes.github.io/img/svg/logoVetorizado.svg  " />
             </div>
         </section>
         <header id="nav" class="">
     <ul>
-        <li class='nav-logo'><a href="http://nerds.ufes.br/"><div><img src="http://nerds.ufes.br/img/svg/logoVetorizadoSimplesCinza.svg" /></div></a></li>
+        <li class='nav-logo'><a href="http://nerds-ufes.github.io/"><div><img src="http://nerds-ufes.github.io/img/svg/logoVetorizadoSimplesCinza.svg" /></div></a></li>
         <li class="hiddenD menuButton">
             <a><div id="menuButton">Menu</div></a>
         </li>
     </ul>
     <ul id="menu" class="menuClose">
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_lab"><div>O Nerds</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_recursos"><div>Recursos</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_projetos"><div>Projetos</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_equipe"><div>Equipe</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_where"><div>Onde Estamos</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/tutorials"><div>Tutoriais</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/publications"><div>Publicações</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/download"><div>Downloads</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_lab"><div>O Nerds</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_recursos"><div>Recursos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_projetos"><div>Projetos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_equipe"><div>Equipe</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_where"><div>Onde Estamos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/tutorials"><div>Tutoriais</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/publications"><div>Publicações</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/download"><div>Downloads</div></a></li>
             <li class="menuButton_"><a href="https://www.instagram.com/nerdsufes/" target="_blank"><div>Instagram</div></a></li>
             <li class="menuButton_"><a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank"><div>Youtube</div></a></li>
             <li class="menuButton_">
-                                    <a href="http://nerds.ufes.br/lang/en"><div>English Version</div></a>
+                                    <a href="http://nerds-ufes.github.io/lang/en"><div>English Version</div></a>
                             </li>
         </ul>
 </header>    </section>
@@ -68,7 +68,7 @@
                     <br>
                     Atualmente, o NERDS atua em projetos relacionados à comunidade científica nomeados: FUTEBOL; Em Direção às Redes de DataCenter Abertas, Programáveis e Definidas por Software; Escalonamento de Enlaces Sem Fio para Coleta de Dados em Redes de Sensores. Além de atuar em um projeto de pesquisa tecnológica chamado NosFVeraTO, um Grupo de Trabalho financiado pela RNP.                </p>
                 <div class="hiddenM">
-                    <img src="http://nerds.ufes.br/img/svg/cabelo.svg">
+                    <img src="http://nerds-ufes.github.io/img/svg/cabelo.svg">
                 </div>
             </section>
         </article>
@@ -79,135 +79,135 @@
                 <p>
                     <ul>
                         <li>
-                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            <img src="http://nerds-ufes.github.io/img/svg/pc.svg" style="height:18px">
                             18 Servidores DELL T430                        </li>
                         <li>
                             <ul>
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/cpu.svg"
                                         style="height:18px"
                                     >
                                     Intel Xeon E5­2620 v3, 6 Núcleos, 2.4GHz@3.2GHz, 15MB de Cache, QPI Link de 8.00GT/s                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/ram.svg"
                                         style="height:18px"
                                     >
                                     1 x 16GB RDIMM ou 2 x 16GB RDIMM, 2400MT/s, Dual Rank, x8 Data Width, BCC                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/hd.svg"
                                         style="height:18px"
                                     >
                                     1 HD de 2TB 7.2K RPM SATA 6Gbps 3.5" Hotplug                                </li>
                             </ul>
                         </li>
                         <li>
-                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            <img src="http://nerds-ufes.github.io/img/svg/pc.svg" style="height:18px">
                             2 Servidores R230                        </li>
                         <li>
                             <ul>
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/cpu.svg"
                                         style="height:18px"
                                     >
                                     Intel Xeon E31240 v6 3.7GHz, 8M cache, 4C/8T, turbo                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/ram.svg"
                                         style="height:18px"
                                     >
                                     4 x 8GB UDIMM, 2400MT/s, ECC, BCC                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/hd.svg"
                                         style="height:18px"
                                     >
                                     2 HDs de 500GB 7.2K RPM SATA 3Gbps 3.5"                                </li>
                             </ul>
                         </li>
                         <li>
-                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            <img src="http://nerds-ufes.github.io/img/svg/pc.svg" style="height:18px">
                             1 Servidor R730                        </li>
                         <li>
                             <ul>
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/cpu.svg"
                                         style="height:18px"
                                     >
                                     Intel® Xeon® E5¬2650 v4 2.2GHz,30MB Cache,9.60GT/s QPI,Turbo,HT,12C/24T                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/ram.svg"
                                         style="height:18px"
                                     >
                                     4 x 32GB RDIMM 2400MT/s Dual Rank, x4 Data Width                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/hd.svg"
                                         style="height:18px"
                                     >
                                     1 HD de 1TB, 7.2K RPM, SATA, 6Gbps 3.5", Hot Plug, 13G                                </li>
                             </ul>
                         </li>
                         <li>
-                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            <img src="http://nerds-ufes.github.io/img/svg/pc.svg" style="height:18px">
                             1 Servidor de virtualização PowerEdge R820                        </li>
                         <li>
                             <ul>
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/cpu.svg"
                                         style="height:18px"
                                     >
                                     8 CPUs x Intel(R) Xeon(R) CPU E5-4603 0 @ 2.00GHz                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/ram.svg"
                                         style="height:18px"
                                     >
                                     383.96 GB de RAM Disponível                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/hd.svg"
                                         style="height:18px"
                                     >
                                     2 HDs de 2TB                                </li>
                             </ul>
                         </li>
                         <li>
-                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            <img src="http://nerds-ufes.github.io/img/svg/pc.svg" style="height:18px">
                             1 Servidor de virtualização C2108-TY11                        </li>
                         <li>
                             <ul>
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/cpu.svg"
                                         style="height:18px"
                                     >
                                     8 CPUs x Intel(R) Xeon(R) CPU E5620 @ 2.40GHz                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/ram.svg"
                                         style="height:18px"
                                     >
                                     65.99 GB de RAM Disponível                                </li>
 
                                 <li>
                                     <img
-                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        src="http://nerds-ufes.github.io/img/svg/hd.svg"
                                         style="height:18px"
                                     >
                                     2 HDs de 2TB                                </li>
@@ -216,7 +216,7 @@
 
                         <li>
                             <img
-                                src="http://nerds.ufes.br/img/svg/switch.svg"
+                                src="http://nerds-ufes.github.io/img/svg/switch.svg"
                                 style="height:18px"
                             >
                             2 switches Pica8, 1 switch Datacom, 1 switch 3COM, 2 Switch gerenciáveis Mikrotic                        </li>
@@ -224,7 +224,7 @@
                 </p>
 
                 <div class="images">
-                    <img src='http://nerds.ufes.br/img/jpeg/dc1.jpg'/>
+                    <img src='http://nerds-ufes.github.io/img/jpeg/dc1.jpg'/>
                 </div>
             </section>
         </article>
@@ -239,43 +239,43 @@
 
             <section>
                 <section>
-                                                                        <a href="http://nerds.ufes.br/projetos/1"><div><div><h3>FUTEBOL: Federated Union of Telecommunications Research Facilities for an EU-Brasil Open Laboratory</h3></div>
+                                                                        <a href="http://nerds-ufes.github.io/projetos/1"><div><div><h3>FUTEBOL: Federated Union of Telecommunications Research Facilities for an EU-Brasil Open Laboratory</h3></div>
                                                             <div class="status">
                                     <p>
                                         Em desenvolvimento                                    </p >
                                 </div>
                                                         </div></a>
-                                                    <a href="http://nerds.ufes.br/projetos/7"><div><div><h3>NosFVeraTO</h3></div>
+                                                    <a href="http://nerds-ufes.github.io/projetos/7"><div><div><h3>NosFVeraTO</h3></div>
                                                             <div class="status">
                                     <p>
                                         Em desenvolvimento                                    </p >
                                 </div>
                                                         </div></a>
-                                                    <a href="http://nerds.ufes.br/projetos/2"><div><div><h3>Interconexão em Data Centers: Novas Soluções Topológicas e Tecnológicas</h3></div>
+                                                    <a href="http://nerds-ufes.github.io/projetos/2"><div><div><h3>Interconexão em Data Centers: Novas Soluções Topológicas e Tecnológicas</h3></div>
                                                             <div class="status done">
                                     <p>
                                         Finalizado                                    </p>
                                 </div>
                                                         </div></a>
-                                                    <a href="http://nerds.ufes.br/projetos/3"><div><div><h3>Redes de DataCenter Programáveis para Computação em Nuvem</h3></div>
+                                                    <a href="http://nerds-ufes.github.io/projetos/3"><div><div><h3>Redes de DataCenter Programáveis para Computação em Nuvem</h3></div>
                                                             <div class="status done">
                                     <p>
                                         Finalizado                                    </p>
                                 </div>
                                                         </div></a>
-                                                    <a href="http://nerds.ufes.br/projetos/4"><div><div><h3>Em Direção às Redes de DataCenter Abertas, Programáveis e Definidas por Software</h3></div>
+                                                    <a href="http://nerds-ufes.github.io/projetos/4"><div><div><h3>Em Direção às Redes de DataCenter Abertas, Programáveis e Definidas por Software</h3></div>
                                                             <div class="status done">
                                     <p>
                                         Finalizado                                    </p>
                                 </div>
                                                         </div></a>
-                                                    <a href="http://nerds.ufes.br/projetos/5"><div><div><h3>Utilização de Plataformas Abertas de Hardware e Software para Experimentação de Redes Definidas por Software</h3></div>
+                                                    <a href="http://nerds-ufes.github.io/projetos/5"><div><div><h3>Utilização de Plataformas Abertas de Hardware e Software para Experimentação de Redes Definidas por Software</h3></div>
                                                             <div class="status done">
                                     <p>
                                         Finalizado                                    </p>
                                 </div>
                                                         </div></a>
-                                                    <a href="http://nerds.ufes.br/projetos/6"><div><div><h3>Escalonamento de Enlaces Sem Fio para Coleta de Dados em Redes de Sensores</h3></div>
+                                                    <a href="http://nerds-ufes.github.io/projetos/6"><div><div><h3>Escalonamento de Enlaces Sem Fio para Coleta de Dados em Redes de Sensores</h3></div>
                                                             <div class="status done">
                                     <p>
                                         Finalizado                                    </p>
@@ -476,12 +476,12 @@
         <footer>
             <div>
                 <div>
-                    <a href="http://ufes.br"><img src="http://nerds.ufes.br/img/png/ufes.png" class="logo"></img></a>
+                    <a href="http://ufes.br"><img src="http://nerds-ufes.github.io/img/png/ufes.png" class="logo"></img></a>
                 </div>
                 <div style="display:inline-block">
-                    <a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank" alt="YouTube"><img src="http://nerds.ufes.br/img/svg/youtube.svg " class="contato-icon"></img></a>
-                    <a href="mailto:nerdsufes@gmail.com" alt="E-mail"><img src="http://nerds.ufes.br/img/svg/mail.svg" class="contato-icon"></img></a>
-                    <a href="https://www.instagram.com/nerdsufes/" target="_blank"><img src="http://nerds.ufes.br/img/svg/insta.svg" class="contato-icon"></img></a>
+                    <a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank" alt="YouTube"><img src="http://nerds-ufes.github.io/img/svg/youtube.svg " class="contato-icon"></img></a>
+                    <a href="mailto:nerdsufes@gmail.com" alt="E-mail"><img src="http://nerds-ufes.github.io/img/svg/mail.svg" class="contato-icon"></img></a>
+                    <a href="https://www.instagram.com/nerdsufes/" target="_blank"><img src="http://nerds-ufes.github.io/img/svg/insta.svg" class="contato-icon"></img></a>
                 </div>
             </div>
             <div>
@@ -490,10 +490,10 @@
             </div>
         </footer>
         <a href="#top"><div class="back_to_top"><i class='material-icons'>arrow_drop_up</i></div></a>
-        <script src="http://nerds.ufes.br/js/jquery-3.2.1.min.js" type="text/javascript"></script>
-        <script src="http://nerds.ufes.br/js/menu.js" type="text/javascript"></script>
-        <script src="http://nerds.ufes.br/js/base.js" type="text/javascript"></script>
-            <script src="http://nerds.ufes.br/js/home.js" type="text/javascript"></script>
+        <script src="http://nerds-ufes.github.io/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="http://nerds-ufes.github.io/js/menu.js" type="text/javascript"></script>
+        <script src="http://nerds-ufes.github.io/js/base.js" type="text/javascript"></script>
+            <script src="http://nerds-ufes.github.io/js/home.js" type="text/javascript"></script>
     </body>
 </html>
 

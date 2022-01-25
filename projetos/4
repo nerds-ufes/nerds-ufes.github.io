@@ -17,34 +17,34 @@
         <meta name="HandheldFriendly" content="True" />
         <meta name="MobileOptimized" content="320" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="shortcut icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
-        <link rel="icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
+        <link rel="shortcut icon" href="http://nerds-ufes.github.io/img/png/favicon.png" type="image/x-icon">
+        <link rel="icon" href="http://nerds-ufes.github.io/img/png/favicon.png" type="image/x-icon">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link href="http://nerds.ufes.br/css/base.css" rel="stylesheet">
+        <link href="http://nerds-ufes.github.io/css/base.css" rel="stylesheet">
     </head>
     <body>
         <div id="top"></div>
 
                 <header id="nav" class="headerFixed">
     <ul>
-        <li class='nav-logo'><a href="http://nerds.ufes.br/"><div><img src="http://nerds.ufes.br/img/svg/logoVetorizadoSimplesCinza.svg" /></div></a></li>
+        <li class='nav-logo'><a href="http://nerds-ufes.github.io/"><div><img src="http://nerds-ufes.github.io/img/svg/logoVetorizadoSimplesCinza.svg" /></div></a></li>
         <li class="hiddenD menuButton">
             <a><div id="menuButton">Menu</div></a>
         </li>
     </ul>
     <ul id="menu" class="menuClose">
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_lab"><div>O Nerds</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_recursos"><div>Recursos</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_projetos"><div>Projetos</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_equipe"><div>Equipe</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/#_where"><div>Onde Estamos</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/tutorials"><div>Tutoriais</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/publications"><div>Publicações</div></a></li>
-            <li class="menuButton_"><a href="http://nerds.ufes.br/download"><div>Downloads</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_lab"><div>O Nerds</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_recursos"><div>Recursos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_projetos"><div>Projetos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_equipe"><div>Equipe</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/#_where"><div>Onde Estamos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/tutorials"><div>Tutoriais</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/publications"><div>Publicações</div></a></li>
+            <li class="menuButton_"><a href="http://nerds-ufes.github.io/download"><div>Downloads</div></a></li>
             <li class="menuButton_"><a href="https://www.instagram.com/nerdsufes/" target="_blank"><div>Instagram</div></a></li>
             <li class="menuButton_"><a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank"><div>Youtube</div></a></li>
             <li class="menuButton_">
-                                    <a href="http://nerds.ufes.br/lang/en"><div>English Version</div></a>
+                                    <a href="http://nerds-ufes.github.io/lang/en"><div>English Version</div></a>
                             </li>
         </ul>
 </header>
@@ -74,12 +74,12 @@
         <footer>
             <div>
                 <div>
-                    <a href="http://ufes.br"><img src="http://nerds.ufes.br/img/png/ufes.png" class="logo"></img></a>
+                    <a href="http://ufes.br"><img src="http://nerds-ufes.github.io/img/png/ufes.png" class="logo"></img></a>
                 </div>
                 <div style="display:inline-block">
-                    <a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank" alt="YouTube"><img src="http://nerds.ufes.br/img/svg/youtube.svg " class="contato-icon"></img></a>
-                    <a href="mailto:nerdsufes@gmail.com" alt="E-mail"><img src="http://nerds.ufes.br/img/svg/mail.svg" class="contato-icon"></img></a>
-                    <a href="https://www.instagram.com/nerdsufes/" target="_blank"><img src="http://nerds.ufes.br/img/svg/insta.svg" class="contato-icon"></img></a>
+                    <a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank" alt="YouTube"><img src="http://nerds-ufes.github.io/img/svg/youtube.svg " class="contato-icon"></img></a>
+                    <a href="mailto:nerdsufes@gmail.com" alt="E-mail"><img src="http://nerds-ufes.github.io/img/svg/mail.svg" class="contato-icon"></img></a>
+                    <a href="https://www.instagram.com/nerdsufes/" target="_blank"><img src="http://nerds-ufes.github.io/img/svg/insta.svg" class="contato-icon"></img></a>
                 </div>
             </div>
             <div>
@@ -88,9 +88,9 @@
             </div>
         </footer>
         <a href="#top"><div class="back_to_top"><i class='material-icons'>arrow_drop_up</i></div></a>
-        <script src="http://nerds.ufes.br/js/jquery-3.2.1.min.js" type="text/javascript"></script>
-        <script src="http://nerds.ufes.br/js/menu.js" type="text/javascript"></script>
-        <script src="http://nerds.ufes.br/js/base.js" type="text/javascript"></script>
+        <script src="http://nerds-ufes.github.io/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="http://nerds-ufes.github.io/js/menu.js" type="text/javascript"></script>
+        <script src="http://nerds-ufes.github.io/js/base.js" type="text/javascript"></script>
                         </body>
 </html>
 
