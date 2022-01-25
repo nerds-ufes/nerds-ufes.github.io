@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118715348-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-118715348-1');
+</script>                
+        <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>NERDS</title>
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="shortcut icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
+        <link rel="icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="http://nerds.ufes.br/css/base.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="top"></div>
+
+            <section class="vitrine">
+        <section>
+            <div>
+                <img src="http://nerds.ufes.br/img/svg/logoVetorizado.svg  " />
+            </div>
+        </section>
+        <header id="nav" class="">
+    <ul>
+        <li class='nav-logo'><a href="http://nerds.ufes.br/"><div><img src="http://nerds.ufes.br/img/svg/logoVetorizadoSimplesCinza.svg" /></div></a></li>
+        <li class="hiddenD menuButton">
+            <a><div id="menuButton">Menu</div></a>
+        </li>
+    </ul>
+    <ul id="menu" class="menuClose">
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_lab"><div>O Nerds</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_recursos"><div>Recursos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_projetos"><div>Projetos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_equipe"><div>Equipe</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_where"><div>Onde Estamos</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/tutorials"><div>Tutoriais</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/publications"><div>Publicações</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/download"><div>Downloads</div></a></li>
+            <li class="menuButton_"><a href="https://www.instagram.com/nerdsufes/" target="_blank"><div>Instagram</div></a></li>
+            <li class="menuButton_"><a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank"><div>Youtube</div></a></li>
+            <li class="menuButton_">
+                                    <a href="http://nerds.ufes.br/lang/en"><div>English Version</div></a>
+                            </li>
+        </ul>
+</header>    </section>
+
+        <br /><br /><br />
+        <main id="main">
+
+                <section class="content">
+        <div id="_lab" class="anchor" ></div>
+        <article id="lab">
+            <h1>O Nerds</h1>
+            <section>
+                <p>
+                    O objetivo do Núcleo de Estudos em Redes Definidas por Software (NERDS) é disponibilizar um ambiente computacional e infra-estrutura básica que suportem o desenvolvimento de aplicações de redes definidas por software. A implantação do NERDS foi viabilizada por recursos da UFES e de projetos de pesquisa financiados pelas agências de fomento CNPq e FAPES. O laboratório está localizado no Centro Tecnológico (CT-VI) salas 102/104/106, ocupando uma área de 174 m². Conta com espaço físico e mobília adequados para o desenvolvimento de atividades de pesquisa de Computação em Nuvem, virtualização e redes de datacenter programáveis.                    <br>
+                    <br>
+                    Atualmente, o NERDS atua em projetos relacionados à comunidade científica nomeados: FUTEBOL; Em Direção às Redes de DataCenter Abertas, Programáveis e Definidas por Software; Escalonamento de Enlaces Sem Fio para Coleta de Dados em Redes de Sensores. Além de atuar em um projeto de pesquisa tecnológica chamado NosFVeraTO, um Grupo de Trabalho financiado pela RNP.                </p>
+                <div class="hiddenM">
+                    <img src="http://nerds.ufes.br/img/svg/cabelo.svg">
+                </div>
+            </section>
+        </article>
+        <div id="_recursos" class="anchor"></div>
+        <article id="recursos">
+            <h1>Recursos</h1>
+            <section>
+                <p>
+                    <ul>
+                        <li>
+                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            18 Servidores DELL T430                        </li>
+                        <li>
+                            <ul>
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        style="height:18px"
+                                    >
+                                    Intel Xeon E5­2620 v3, 6 Núcleos, 2.4GHz@3.2GHz, 15MB de Cache, QPI Link de 8.00GT/s                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        style="height:18px"
+                                    >
+                                    1 x 16GB RDIMM ou 2 x 16GB RDIMM, 2400MT/s, Dual Rank, x8 Data Width, BCC                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        style="height:18px"
+                                    >
+                                    1 HD de 2TB 7.2K RPM SATA 6Gbps 3.5" Hotplug                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            2 Servidores R230                        </li>
+                        <li>
+                            <ul>
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        style="height:18px"
+                                    >
+                                    Intel Xeon E31240 v6 3.7GHz, 8M cache, 4C/8T, turbo                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        style="height:18px"
+                                    >
+                                    4 x 8GB UDIMM, 2400MT/s, ECC, BCC                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        style="height:18px"
+                                    >
+                                    2 HDs de 500GB 7.2K RPM SATA 3Gbps 3.5"                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            1 Servidor R730                        </li>
+                        <li>
+                            <ul>
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        style="height:18px"
+                                    >
+                                    Intel® Xeon® E5¬2650 v4 2.2GHz,30MB Cache,9.60GT/s QPI,Turbo,HT,12C/24T                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        style="height:18px"
+                                    >
+                                    4 x 32GB RDIMM 2400MT/s Dual Rank, x4 Data Width                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        style="height:18px"
+                                    >
+                                    1 HD de 1TB, 7.2K RPM, SATA, 6Gbps 3.5", Hot Plug, 13G                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            1 Servidor de virtualização PowerEdge R820                        </li>
+                        <li>
+                            <ul>
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        style="height:18px"
+                                    >
+                                    8 CPUs x Intel(R) Xeon(R) CPU E5-4603 0 @ 2.00GHz                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        style="height:18px"
+                                    >
+                                    383.96 GB de RAM Disponível                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        style="height:18px"
+                                    >
+                                    2 HDs de 2TB                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <img src="http://nerds.ufes.br/img/svg/pc.svg" style="height:18px">
+                            1 Servidor de virtualização C2108-TY11                        </li>
+                        <li>
+                            <ul>
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/cpu.svg"
+                                        style="height:18px"
+                                    >
+                                    8 CPUs x Intel(R) Xeon(R) CPU E5620 @ 2.40GHz                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/ram.svg"
+                                        style="height:18px"
+                                    >
+                                    65.99 GB de RAM Disponível                                </li>
+
+                                <li>
+                                    <img
+                                        src="http://nerds.ufes.br/img/svg/hd.svg"
+                                        style="height:18px"
+                                    >
+                                    2 HDs de 2TB                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <img
+                                src="http://nerds.ufes.br/img/svg/switch.svg"
+                                style="height:18px"
+                            >
+                            2 switches Pica8, 1 switch Datacom, 1 switch 3COM, 2 Switch gerenciáveis Mikrotic                        </li>
+                    </ul>
+                </p>
+
+                <div class="images">
+                    <img src='http://nerds.ufes.br/img/jpeg/dc1.jpg'/>
+                </div>
+            </section>
+        </article>
+
+        <div
+            id="_projetos"
+            class="anchor"
+        ></div>
+
+        <article id="projetos">
+            <h1>Projetos</h1>
+
+            <section>
+                <section>
+                                                                        <a href="http://nerds.ufes.br/projetos/1"><div><div><h3>FUTEBOL: Federated Union of Telecommunications Research Facilities for an EU-Brasil Open Laboratory</h3></div>
+                                                            <div class="status">
+                                    <p>
+                                        Em desenvolvimento                                    </p >
+                                </div>
+                                                        </div></a>
+                                                    <a href="http://nerds.ufes.br/projetos/7"><div><div><h3>NosFVeraTO</h3></div>
+                                                            <div class="status">
+                                    <p>
+                                        Em desenvolvimento                                    </p >
+                                </div>
+                                                        </div></a>
+                                                    <a href="http://nerds.ufes.br/projetos/2"><div><div><h3>Interconexão em Data Centers: Novas Soluções Topológicas e Tecnológicas</h3></div>
+                                                            <div class="status done">
+                                    <p>
+                                        Finalizado                                    </p>
+                                </div>
+                                                        </div></a>
+                                                    <a href="http://nerds.ufes.br/projetos/3"><div><div><h3>Redes de DataCenter Programáveis para Computação em Nuvem</h3></div>
+                                                            <div class="status done">
+                                    <p>
+                                        Finalizado                                    </p>
+                                </div>
+                                                        </div></a>
+                                                    <a href="http://nerds.ufes.br/projetos/4"><div><div><h3>Em Direção às Redes de DataCenter Abertas, Programáveis e Definidas por Software</h3></div>
+                                                            <div class="status done">
+                                    <p>
+                                        Finalizado                                    </p>
+                                </div>
+                                                        </div></a>
+                                                    <a href="http://nerds.ufes.br/projetos/5"><div><div><h3>Utilização de Plataformas Abertas de Hardware e Software para Experimentação de Redes Definidas por Software</h3></div>
+                                                            <div class="status done">
+                                    <p>
+                                        Finalizado                                    </p>
+                                </div>
+                                                        </div></a>
+                                                    <a href="http://nerds.ufes.br/projetos/6"><div><div><h3>Escalonamento de Enlaces Sem Fio para Coleta de Dados em Redes de Sensores</h3></div>
+                                                            <div class="status done">
+                                    <p>
+                                        Finalizado                                    </p>
+                                </div>
+                                                        </div></a>
+                                                            </section>
+            </section>
+        </article>
+
+        <div
+            id="_equipe"
+            class="anchor"
+        ></div>
+
+        <article
+            class="equipe"
+            id="equipe"
+        >
+            <h1>A Equipe</h1>
+
+            <section>
+                <section>
+                                            
+                        <div>
+                            <span>Pesquisadores</span>
+                            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Magnos Martinello
+                                                                                            <a href="http://lattes.cnpq.br/7471111924336519" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Moisés Renato Nunes Ribeiro
+                                                                                            <a href="http://lattes.cnpq.br/1005553714687743" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>Renato Elias Nunes de Moraes
+                                                                                            <a href="http://lattes.cnpq.br/8323084944042061" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                        <li>Rodolfo da Silva Villaça
+                                                                                            <a href="http://lattes.cnpq.br/3755692723547807" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                        <li>Rodrigo Laiola Guimarães
+
+                                                                                            <a href="http://lattes.cnpq.br/4894515763733502" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                    <li>Vinícius Fernandes Soares Mota
+                                                                                            <a href="http://lattes.cnpq.br/9305955394665920" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                </ul>
+                        </div>
+
+                        <div>
+                            <span>Colaboradores</span>
+                            <ul>
+                                                                                                                                                                                                                                                                                                                        <li>Ariane Ventura de Sousa Falcão (UFPB)
+                                                                                    </li>
+                                                                                                                                                <li>Celso Alberto Saibel Santos
+                                                                                            <a href="http://lattes.cnpq.br/7614206164174151" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                <li>Cesar Marcondes (UFSCar)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Fábio L. Verdi (UFSCar)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Gilmar Vassoler
+                                                                                            <a href="http://lattes.cnpq.br/4324881751736449" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                            <li>Jair Silva
+                                                                                            <a href="http://lattes.cnpq.br/3099010533644898" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                            <li>Leandro Colombi Resendo
+                                                                                            <a href="http://lattes.cnpq.br/8108487234297364" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Marcelo Eduardo Vieira Segatto
+                                                                                            <a href="http://lattes.cnpq.br/2379169013108798" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                <li>Maria José Pontes
+                                                                                            <a href="http://lattes.cnpq.br/4148956242627659" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                    <li>Maxwell Monteiro
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Regis F. T. Martins (UFSCar)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                            <li>Roberto Colistete Jr.
+                                                                                            <a href="http://lattes.cnpq.br/6503578618806955" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+                        </div>
+
+                        <div>
+                            <span>Alunos de Doutorado</span>
+                            <ul>
+                                                                                                                                                                                <li>Alextian Bartholomeu Liberato
+                                                                                            <a href="http://lattes.cnpq.br/5443992982789294" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Cristina Klippel Dominicini
+                                                                                            <a href="http://lattes.cnpq.br/7853087416950443" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                    <li>Diego Rossi Mafioletti
+                                                                                            <a href="http://lattes.cnpq.br/2470233635439757" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li>João Henrique Gonçalves Medeiros Corrêa
+                                                                                            <a href="http://lattes.cnpq.br/6143528226807891" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Luis Fernando Uria García
+                                                                                            <a href="http://lattes.cnpq.br/0525658220843941" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Rafael Silva Guimarães
+                                                                                            <a href="http://lattes.cnpq.br/4909197952264922" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Ricardo Carminati de Mello
+                                                                                            <a href="http://lattes.cnpq.br/1569638571582691" target="_blank">Lattes</a>
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                        </div>
+
+                        <div>
+                            <span>Alunos de Mestrado</span>
+                            <ul>
+                                                                                                            <li>Alan Afif Helal
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>Diego Giacomelli Cardoso
+                                                                                    </li>
+                                                                                                                                                                                                                    <li>Epaminondas Aguiar de Sousa Junior
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Isabella de Albuquerque Ceravolo
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Marcel Becali Tononi
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Pablo Brunetti dos Santos
+                                                                                    </li>
+                                                                                                                                                <li>Pedro Hasse Ferreira Martins Baptista
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                            <li>Renan Freire Tavares
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Rodolfo Vieira Valentim
+                                                                                    </li>
+                                                                                                                                                                                                                    <li>Víctor Manuel García Martínez
+                                                                                    </li>
+                                                                                                                                                                    </ul>
+                        </div>
+
+                        <div>
+                            <span>Alunos de Graduação</span>
+                            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Fernando Guerra Rodrigues Machado
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li>João Victor Marçal Bragança
+                                                                                    </li>
+                                                                                                                                                <li>Jonas Mendes Fiorini
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                        </div>
+
+                        <div>
+                            <span>Alumni</span>
+                            <ul>
+                                                                                                                                                                                                                                                    <li>Ana Carolina Ewald Eller (Mestrado)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>Felipe Belshoff Pina (IC)
+                                                                                    </li>
+                                                                                                                                                <li>Fernando Ávila Fossi Silveira (Mestrado)
+                                                                                    </li>
+                                                                                                                                                                                                                    <li>Gabriel Carvalho Benedito (IC)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                        <li>Gustavo Luiz de Oliveira Ângelo (IC)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>Leonardo Ferreira Meneses (IC)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Matheus Salgueiro Castanho (IC)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>Raffael Calegari Bozzi (IC)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>Rodolfo Ribeiro Gomes (Mestrado)
+                                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                        </div>
+                                    </section>
+            </section>
+        </article>
+        <div
+            id="_where"
+            class="anchor"
+        ></div>
+        
+        <article id="where" style="display:flex; flex-direction: column;">
+            <h1>Onde Estamos</h1>
+            <section style="flex:1; display:flex;">
+                    <br>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d278.1758537395267!2d-40.30621589775807!3d-20.27238164656305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d-20.272297899999998!2d-40.3061936!5e0!3m2!1spt-BR!2sbr!4v1524260614204"
+                        width="100%"
+                        frameborder="0"
+                        style="margin-bottom: 20px; flex:1"
+                        allowfullscreen="allowfullscreen"
+                    ></iframe>
+            </section>
+        </article>
+    </section>
+
+        </main>
+        <footer>
+            <div>
+                <div>
+                    <a href="http://ufes.br"><img src="http://nerds.ufes.br/img/png/ufes.png" class="logo"></img></a>
+                </div>
+                <div style="display:inline-block">
+                    <a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank" alt="YouTube"><img src="http://nerds.ufes.br/img/svg/youtube.svg " class="contato-icon"></img></a>
+                    <a href="mailto:nerdsufes@gmail.com" alt="E-mail"><img src="http://nerds.ufes.br/img/svg/mail.svg" class="contato-icon"></img></a>
+                    <a href="https://www.instagram.com/nerdsufes/" target="_blank"><img src="http://nerds.ufes.br/img/svg/insta.svg" class="contato-icon"></img></a>
+                </div>
+            </div>
+            <div>
+                <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+                <div><h5>&copy 2017 Fernando Guerra Rodrigues Machado</h5></div>
+            </div>
+        </footer>
+        <a href="#top"><div class="back_to_top"><i class='material-icons'>arrow_drop_up</i></div></a>
+        <script src="http://nerds.ufes.br/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="http://nerds.ufes.br/js/menu.js" type="text/javascript"></script>
+        <script src="http://nerds.ufes.br/js/base.js" type="text/javascript"></script>
+            <script src="http://nerds.ufes.br/js/home.js" type="text/javascript"></script>
+    </body>
+</html>
+

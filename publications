@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118715348-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-118715348-1');
+</script>                
+        <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>NERDS</title>
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="shortcut icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
+        <link rel="icon" href="http://nerds.ufes.br/img/png/favicon.png" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="http://nerds.ufes.br/css/base.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="top"></div>
+
+                <header id="nav" class="headerFixed">
+    <ul>
+        <li class='nav-logo'><a href="http://nerds.ufes.br/"><div><img src="http://nerds.ufes.br/img/svg/logoVetorizadoSimplesCinza.svg" /></div></a></li>
+        <li class="hiddenD menuButton">
+            <a><div id="menuButton">Menu</div></a>
+        </li>
+    </ul>
+    <ul id="menu" class="menuClose">
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_lab"><div>About</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_recursos"><div>Resources</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_projetos"><div>Projects</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_equipe"><div>Team</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/#_where"><div>Where are we</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/tutorials"><div>Tutorials</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/publications"><div>Publications</div></a></li>
+            <li class="menuButton_"><a href="http://nerds.ufes.br/download"><div>Downloads</div></a></li>
+            <li class="menuButton_"><a href="https://www.instagram.com/nerdsufes/" target="_blank"><div>Instagram</div></a></li>
+            <li class="menuButton_"><a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank"><div>Youtube</div></a></li>
+            <li class="menuButton_">
+                                    <a href="http://nerds.ufes.br/lang/br"><div>Versão em Portugues</div></a>
+                            </li>
+        </ul>
+</header>
+        <br /><br /><br />
+        <main id="main">
+
+                <section class="content publications"/>
+        <p>
+            <div class="pubs">
+        <div class="type">Journal</div>
+                    <div class="year">2017</div>
+            <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/4324881751736449' target='_blank'>VASSOLER, G. L.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; FERREIRA, L. . VirtPhy: Fully Programmable NFV Orchestration Architecture for Edge Data Centers over a Fully Programmable SDN Infrastructure for Small Data Centers. IEEE Transactions on Network and Service Management, v. 1, p. 1-1, 2017.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-VirtPhy-Fully-Programmable-NFV-Orchestration-Architecture-for-Edge-Data-Centers.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @article{dominicini2017,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Dominicini, C. K. and Martinello, M. and Ribeiro, M. R. N. and Vassoler, G. L. and Villaca, Rodolfo and Ferreira, L.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {VirtPhy: Fully Programmable NFV Orchestration Architecture for Edge Data Centers over a Fully Programmable SDN Infrastructure for Small Data Centers},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IEEE Transactions on Network and Service Management},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2017},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IEEE Transactions on Network and Service Management}<br />
+                        }<br />
+        </div>
+    </div>
+                    <div class="year">2016</div>
+            <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/2470233635439757' target='_blank'>MAFIOLETTI, D.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> . Latency Measurement as a Virtualized Network Function using Metherxis. ACM SIGCOMM Computer Communication Review, v. 46, p. 1-3, 2016.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-sigcomm-ccr-final56.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @article{mafioletti2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Mafioletti, D. and Liberato, A. and Dominicini, C. K. and Villaca, Rodolfo and Martinello, M. and Ribeiro, M. R. N.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Latency Measurement as a Virtualized Network Function using Metherxis},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {ACM SIGCOMM Computer Communication Review},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {ACM SIGCOMM Computer Communication Review}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            TROIS, C. ; BONA, L. C. E. ; FABRO, M. D. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . A Survey on SDN Programming Languages: Towards a Taxonomy. IEEE Communications Surveys and Tutorials, v. 1, p. 1-1, 2016.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-07452335.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @article{trois2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Trois, C. and Bona, L. C. E. and Fabro, M. D. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {A Survey on SDN Programming Languages: Towards a Taxonomy},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IEEE Communications Surveys and Tutorials},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IEEE Communications Surveys and Tutorials}<br />
+                        }<br />
+        </div>
+    </div>
+                    <div class="year">2014</div>
+            <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; Oliveira, R. E. ; VITOI, R. . Keyflow: a prototype for evolving SDN toward core network fabrics. IEEE Network, v. 28, p. 12-19, 2014.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-06786608.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @article{martinello2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Martinello, M. and Ribeiro, M. R. N. and Oliveira, R. E. and Vitoi, R.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Keyflow: a prototype for evolving SDN toward core network fabrics},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IEEE Network},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IEEE Network}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; RENATO B.CABELINO ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . An Architectural Framework for Delivering Sip-As Multimedia Services Based on JADE/OSGI Technology. International Journal of Next-Generation Networks, v. 6, p. 1-12, 2014.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-6314ijngn01.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @article{ribeiro2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Ribeiro, M. R. N. and Renato B.Cabelino and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {An Architectural Framework for Delivering Sip-As Multimedia Services Based on JADE/OSGI Technology},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {International Journal of Next-Generation Networks},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {International Journal of Next-Generation Networks}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            CERCOS, S. S. ; Oliveira, R. E. ; VITOI, R. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; FAGERTUN, A. M. ; MONROY, I. T. . Tackling OpenFlow power hog in core networks with KeyFlow. Electronics Letters, v. 50, p. 1847-1849, 2014.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-06968716.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @article{cercos2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Cercos, S. S. and Oliveira, R. E. and Vitoi, R. and Martinello, M. and Ribeiro, M. R. N. and Fagertun, A. M. and Monroy, I. T.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Tackling OpenFlow power hog in core networks with KeyFlow},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Electronics Letters},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Electronics Letters}<br />
+                        }<br />
+        </div>
+    </div>
+                <div class="type">Conferences</div>
+                    <div class="year">2018</div>
+            <div class="pub">
+        <div>
+            TROIS, C. ; BONA, L. C. E. ; OLIVEIRA, L. S. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; FABRO, M. D. ; Nejabati, R. ; SIMEONIDOU, D. . Exploring Textures in Traffic Matrices to Classify Data Center Communications. In: 32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018), 2018, Cracovia.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-2018_aina_exploring-textures-traffic.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{trois2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Trois, C. and Bona, L. C. E. and Oliveira, L. S. and Martinello, M. and Fabro, M. D. and Nejabati, R. and Simeonidou, D.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Exploring Textures in Traffic Matrices to Classify Data Center Communications},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            ANDRADE, J. ; RENATO B.CABELINO ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/7614206164174151' target='_blank'>SAIBEL, C.</a> . SANGN: A New Service Oriented Architecture for Provisioning of NGN Scalable Multimedia Services. In: 32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018), 2018, Cracóvia.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{andrade2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Andrade, J. and Renato B.Cabelino and Villaca, Rodolfo and Martinello, M. and Saibel, C.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {SANGN: A New Service Oriented Architecture for Provisioning of NGN Scalable Multimedia Services},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {32nd IEEE International Conference on Advanced Information Networking and Applications (IEEE AINA-2018)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            OLIVEIRA, W. ; SANTOS, L. ; SAMPAIO, L. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Aprovisionamento de QoS por Rótulos Programáveis para Redes Definidas por Resíduos. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2018, Campos de Jordão - SP.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-179573.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{oliveira2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Oliveira, W. and Santos, L. and Sampaio, L. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Aprovisionamento de QoS por Rótulos Programáveis para Redes Definidas por Resíduos},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            CASTANHO, M. ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> . PhantomSFC: A Fully Virtualized and Agnostic Service Function Chaining Architecture. In: IEEE Symposium on Computers and Communications, 2018, Natal.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Castanho_2018.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{castanho2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Castanho, M. and Dominicini, C. K. and Villaca, Rodolfo and Martinello, M. and Ribeiro, M. R. N.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {PhantomSFC: A Fully Virtualized and Agnostic Service Function Chaining Architecture},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IEEE Symposium on Computers and Communications},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IEEE Symposium on Computers and Communications}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            MARTINEZ, V. G. ; <a href='http://lattes.cnpq.br/1569638571582691' target='_blank'>MELLO, R. C.</a> ; <a href='http://lattes.cnpq.br/4909197952264922' target='_blank'>GUIMARAES, R. S.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; HASSE, P. ; FRASCOLLA, V. . Ultra Reliable Communication for Robot Mobility enabled by SDN Splitting of WiFi Functions. In: IEEE Symposium on Computers and Communications, 2018, Natal.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Martinez_2018.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{martinez2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Martinez, V. G. and Mello, R. C. and Guimaraes, R. S. and Ribeiro, M. R. N. and Martinello, M. and Hasse, P. and Frascolla, V.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Ultra Reliable Communication for Robot Mobility enabled by SDN Splitting of WiFi Functions},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IEEE Symposium on Computers and Communications},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IEEE Symposium on Computers and Communications}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            Ceravolo, I. D. ; Cardoso, D. G. ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; SIMEONIDOU, D. . O2CMF: Experiment-as-a-Service for Agile Fed4Fire Deployment of Programmable NFV. In: Optical Fiber Communication Conference (pp. Tu3D-13), 2018.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Ceravolo_2018.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{ceravolo2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Ceravolo, I. D. and Cardoso, D. G. and Dominicini, C. K. and Villaca, Rodolfo and Ribeiro, M. R. N. and Martinello, M. and Simeonidou, D.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {O2CMF: Experiment-as-a-Service for Agile Fed4Fire Deployment of Programmable NFV},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Optical Fiber Communication Conference (pp. Tu3D-13)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Optical Fiber Communication Conference (pp. Tu3D-13)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/6143528226807891' target='_blank'>CORRÊA, João H.</a> et al.Dispositivos conectados a serviço web em nuvem: complementariedade entre infraestrutura e seletividade para proteção contra DDoS. In: Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC_SBRC), v. 1, 2018.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Dispositivos-conectados-a-serviço-web-em-nuvem-complementariedade-entre-infraestrutura-e-seletividade-para-proteção-contra-DDoS.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{corrêa2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Corrêa, João H. Et Al.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Dispositivos conectados a serviço web em nuvem: complementariedade entre infraestrutura e seletividade para proteção contra DDoS},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC_SBRC)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC_SBRC)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            Santos, P. ; <a href='http://lattes.cnpq.br/6143528226807891' target='_blank'>CORRÊA, João H.</a> ; Picoreti, R. ; Queiroz, F ; Cardoso, D. G. ; Carmo, A. ; Vassalo, R. ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> . Monitoramento de Recursos para Aplicações de Robótica em Espaços Inteligentes baseados em uma Nuvem OpenStack. In: Workshop Em Clouds E AplicaçõEs (WCGA - SBRC), 2018.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Monitoramento-de-Recursos-para-Aplicações-de-Robótica-em-Espaços-Inteligentes-baseados-em-uma-Nuvem-OpenStack.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{santos2018,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Santos, P. and Corrêa, João H. and Picoreti, R. and Queiroz, F and Cardoso, D. G. and Carmo, A. and Vassalo, R. and Ribeiro, M. R. N. and Villaca, Rodolfo},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Monitoramento de Recursos para Aplicações de Robótica em Espaços Inteligentes baseados em uma Nuvem OpenStack},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Workshop Em Clouds E AplicaçõEs (WCGA - SBRC)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2018},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Workshop Em Clouds E AplicaçõEs (WCGA - SBRC)}<br />
+                        }<br />
+        </div>
+    </div>
+                    <div class="year">2017</div>
+            <div class="pub">
+        <div>
+            TROIS, C. ; BONA, L. C. E. ; FABRO, M. D. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; BIDKAR, SARVESH ; Nejabati, R. ; SIMEONIDOU, D. . Softening Up the Network for Scientific Applications. In: 2017 25th Euromicro International Conference on Parallel, Distributed and Network based Processing (PDP), 2017, St. Petersburg. p. 108.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-07912632.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{trois2017,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Trois, C. and Bona, L. C. E. and Fabro, M. D. and Martinello, M. and Bidkar, Sarvesh and Nejabati, R. and Simeonidou, D.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Softening Up the Network for Scientific Applications},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {2017 25th Euromicro International Conference on Parallel, Distributed and Network based Processing (PDP)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2017},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {2017 25th Euromicro International Conference on Parallel, Distributed and Network based Processing (PDP)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            GOMES, ROBERTA LIMA ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; HASSE, P. ; Vassalo, R. ; Nejabati, R. ; SIMEONIDOU, D. . How can emerging applications benefit from EaaS in open programmable infrastructures?. In: IEEE Summer School on Smart Cities, 2017, Natal.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-How-can-emerging-applications-benefit-from-EaaS-in-open-programmable-infrastructures.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{gomes2017,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Gomes, Roberta Lima and Martinello, M. and Dominicini, C. K. and Ribeiro, M. R. N. and Villaca, Rodolfo and Hasse, P. and Vassalo, R. and Nejabati, R. and Simeonidou, D.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {How can emerging applications benefit from EaaS in open programmable infrastructures?},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IEEE Summer School on Smart Cities},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2017},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IEEE Summer School on Smart Cities}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; BELDACHI, A. F. ; KONDEPU, K. ; GOMES, ROBERTA LIMA ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; HUGUES-SALAS, E. ; YAN, Y. ; SIMEONIDOU, D. . Programmable Residues Defined Networks for Edge Data Centres. In: IEEE International Conference on Network and Service Management (CNSM 2017), 2017, Tokyo.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Programmable-Residues-Defined-Networks-for-Edge-Data-Centres.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{martinello2017,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Martinello, M. and Liberato, A. and Ribeiro, M. R. N. and Beldachi, A. F. and Kondepu, K. and Gomes, Roberta Lima and Villaca, Rodolfo and Hugues-Salas, E. and Yan, Y. and Simeonidou, D.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Programmable Residues Defined Networks for Edge Data Centres},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IEEE International Conference on Network and Service Management (CNSM 2017)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2017},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IEEE International Conference on Network and Service Management (CNSM 2017)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            Ceravolo, I. D. ; Cardoso, D. G. ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Proposta e Implementação de um Framework de Controle para Testbeds Federados que Integram Nuvem e SDN. In: Workshop De Pesquisa Experimental Da Internet Do Futuro (WPEIF_SBRC), 2017.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Proposta-e-Implementação-de-um-Framework-de-Controle-para-Testbeds-Federados-que-Integram-Nuvem-e-SDN.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{ceravolo2017,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Ceravolo, I. D. and Cardoso, D. G. and Dominicini, C. K. and Villaca, Rodolfo and Ribeiro, M. R. N. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Proposta e Implementação de um Framework de Controle para Testbeds Federados que Integram Nuvem e SDN},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Workshop De Pesquisa Experimental Da Internet Do Futuro (WPEIF_SBRC)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2017},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Workshop De Pesquisa Experimental Da Internet Do Futuro (WPEIF_SBRC)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            Silveira, F. A. F. ; Cardoso, D. G. ; <a href='http://lattes.cnpq.br/8323084944042061' target='_blank'>Moraes, R. E. N.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> . GRASP Aplicado ao Problema do Conjunto Mínimo de Observadores para Monitoramento de Redes. In: XLIX Simpósio Brasileiro de Pesquisa Operacional (SBPO 2017), 2017.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-169466.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{silveira2017,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Silveira, F. A. F. and Cardoso, D. G. and Moraes, R. E. N. and Villaca, Rodolfo},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {GRASP Aplicado ao Problema do Conjunto Mínimo de Observadores para Monitoramento de Redes},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {XLIX Simpósio Brasileiro de Pesquisa Operacional (SBPO 2017)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2017},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {XLIX Simpósio Brasileiro de Pesquisa Operacional (SBPO 2017)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/1569638571582691' target='_blank'>MELLO, R. C.</a> ; Jimenez, M. F. ; Souza, F. V. ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; Frizera-Neto, A. . Impacto da Latência em Sistemas Cyber-Físicos em Nuvem: Métricas Subjetiva e Objetiva para Andador Robótico. In: XIII Simpósio Brasileiro de Automação Inteligente (SBAI), 2017.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Impacto-da-Latência-em-Sistemas-Cyber-Físicos-em-Nuvem-Métricas-Subjetiva-e-Objetiva-para-Andador-Róbotico.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{mello2017,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Mello, R. C. and Jimenez, M. F. and Souza, F. V. and Ribeiro, M. R. N. and Frizera-Neto, A.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Impacto da Latência em Sistemas Cyber-Físicos em Nuvem: Métricas Subjetiva e Objetiva para Andador Robótico},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {XIII Simpósio Brasileiro de Automação Inteligente (SBAI)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2017},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {XIII Simpósio Brasileiro de Automação Inteligente (SBAI)}<br />
+                        }<br />
+        </div>
+    </div>
+                    <div class="year">2016</div>
+            <div class="pub">
+        <div>
+            CHARPINEL, SERGIO ; <a href='http://lattes.cnpq.br/7614206164174151' target='_blank'>SAIBEL, C.</a> ; VIEIRA, ALEX BORGES ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . SDCCN: A Novel Software Defined Content-Centric Networking Approach. In: 2016 IEEE 30th International Conference on Advanced Information Networking and Applications (AINA), 2016, Crans-Montana. p. 87.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-07474074.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{charpinel2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Charpinel, Sergio and Saibel, C. and Vieira, Alex Borges and Villaca, Rodolfo and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {SDCCN: A Novel Software Defined Content-Centric Networking Approach},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {2016 IEEE 30th International Conference on Advanced Information Networking and Applications (AINA)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {2016 IEEE 30th International Conference on Advanced Information Networking and Applications (AINA)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            SPALLA, EROS S. ; <a href='http://lattes.cnpq.br/2470233635439757' target='_blank'>MAFIOLETTI, D.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; EWALD, GILBERTO ; ROTHENBERG, CHRISTIAN E. ; CAMARGOS, LASARO ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . AR2C2: Actively replicated controllers for SDN resilient control plane. In: NOMS 2016 2016 IEEE/IFIP Network Operations and Management Symposium, 2016, Istanbul. p. 189-196.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-07502812.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{spalla2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Spalla, Eros S. and Mafioletti, D. and Liberato, A. and Ewald, Gilberto and Rothenberg, Christian E. and Camargos, Lasaro and Villaca, Rodolfo and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {AR2C2: Actively replicated controllers for SDN resilient control plane},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {NOMS 2016 2016 IEEE/IFIP Network Operations and Management Symposium},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {NOMS 2016 2016 IEEE/IFIP Network Operations and Management Symposium}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            GOMES, R. R. ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . KAR: Key-for-Any-Route Resilient Routing System. In: Workshop on Dependability Issues on SDN and NFV (DISN), 2016, Toulouse.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-07575361.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{gomes2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Gomes, R. R. and Liberato, A. and Dominicini, C. K. and Ribeiro, M. R. N. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {KAR: Key-for-Any-Route Resilient Routing System},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Workshop on Dependability Issues on SDN and NFV (DISN)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Workshop on Dependability Issues on SDN and NFV (DISN)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/4909197952264922' target='_blank'>GUIMARAES, R. S.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; LIMA, D. S. A. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> . ROUTEOPS: Orquestração de Rotas Centrada na Operação de Sistemas Autônomos. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2016, Salvador-BA.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-ROUTEOPS-Orquestração-de-Rotas-Centrada-na-Operação-de-Sistemas-Autônomos.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{guimaraes2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Guimaraes, R. S. and Ribeiro, M. R. N. and Dominicini, C. K. and Lima, D. S. A. and Martinello, M. and Villaca, Rodolfo},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {ROUTEOPS: Orquestração de Rotas Centrada na Operação de Sistemas Autônomos},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            KEIFER, Y. J. ; ZAMBON, E. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . DETOX: Detecção de Inconsistências na Política de Segurança Implementada em Firewall Real. In: Workshop de Tolerância a Faltas, 2016, Salvador-BA.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-155195.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{keifer2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Keifer, Y. J. and Zambon, E. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {DETOX: Detecção de Inconsistências na Política de Segurança Implementada em Firewall Real},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Workshop de Tolerância a Faltas},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Workshop de Tolerância a Faltas}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/2470233635439757' target='_blank'>MAFIOLETTI, D.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Metherxis: Virtualized Network Functions for Micro-second Grade Latency Measurements. In: ACM SIGCOMM Workshop on Fostering Latin-American Research in Data Communication Networks (LANCOMM 2016), 2016, Florianópolis-SC.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Metherxis-Virtualized-Network-Functions-for-Micro-second-Grade-Latency-Measurements.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{mafioletti2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Mafioletti, D. and Liberato, A. and Villaca, Rodolfo and Dominicini, C. K. and Ribeiro, M. R. N. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Metherxis: Virtualized Network Functions for Micro-second Grade Latency Measurements},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {ACM SIGCOMM Workshop on Fostering Latin-American Research in Data Communication Networks (LANCOMM 2016)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {ACM SIGCOMM Workshop on Fostering Latin-American Research in Data Communication Networks (LANCOMM 2016)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; MARQUEZ-BARJA, J. M. ; KAMINSKI, N. ; SILVA, L. . Dynamic Backhauling within Converged Networks. In: ACM SIGCOMM Workshop on Fostering Latin-American Research in Data Communication Networks (LANCOMM 2016), 2016, Florianópolis-SC.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-2016Lancommdynamicbackhaulingconverged.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{liberato2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Liberato, A. and Martinello, M. and Ribeiro, M. R. N. and Marquez-Barja, J. M. and Kaminski, N. and Silva, L.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Dynamic Backhauling within Converged Networks},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {ACM SIGCOMM Workshop on Fostering Latin-American Research in Data Communication Networks (LANCOMM 2016)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {ACM SIGCOMM Workshop on Fostering Latin-American Research in Data Communication Networks (LANCOMM 2016)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            GOMES, R. R. ; <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> . Analytical Modeling Approach of Routing Deflection for Intra-domain Networks. In: WPerformance - Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2016, Porto Alegre-RS.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-Analytical-Modeling-Approach-of-Routing-Deflection-for-Intra-domain-Networks.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{gomes2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Gomes, R. R. and Dominicini, C. K. and Liberato, A. and Martinello, M. and Ribeiro, M. R. N.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Analytical Modeling Approach of Routing Deflection for Intra-domain Networks},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {WPerformance - Workshop em Desempenho de Sistemas Computacionais e de Comunicação},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {WPerformance - Workshop em Desempenho de Sistemas Computacionais e de Comunicação}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            TROIS, C. ; BONA, L. C. E. ; FABRO, M. D. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Carving Software-Defined Networks for Scientific Applications with SpateN. In: 2016 IEEE 41st Conference on Local Computer Networks (LCN), 2016, Dubai. p. 200.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-07796785.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{trois2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Trois, C. and Bona, L. C. E. and Fabro, M. D. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Carving Software-Defined Networks for Scientific Applications with SpateN},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {2016 IEEE 41st Conference on Local Computer Networks (LCN)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {2016 IEEE 41st Conference on Local Computer Networks (LCN)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/7853087416950443' target='_blank'>DOMINICINI, C. K.</a> ; <a href='http://lattes.cnpq.br/4324881751736449' target='_blank'>VASSOLER, G. L.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . VirtPhy: A fully programmable infrastructure for efficient NFV in small data centers. In: 2016 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFVSDN), 2016, Palo Alto. p. 81.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-VirtPhy-2016.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{dominicini2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Dominicini, C. K. and Vassoler, G. L. and Ribeiro, M. R. N. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {VirtPhy: A fully programmable infrastructure for efficient NFV in small data centers},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {2016 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFVSDN)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {2016 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFVSDN)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            LIMA, D. S. A. ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/4909197952264922' target='_blank'>GUIMARAES, R. S.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/4324881751736449' target='_blank'>VASSOLER, G. L.</a> ; SPALLA, EROS S. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . REUNI: Um algoritmo para REduzir tabelas de encaminhamento e UNIformizar a distribuição dos fluxos em redes com topologia hipercubo. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2016, Salvador-BA.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-REUNI-Um-algoritmo-para-REduzir-tabelas-de-encaminhamento-e-UNIformizar-a-distribuição-dos-fluxos-em-redes-com-topologia-hipercubo.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{lima2016,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Lima, D. S. A. and Villaca, Rodolfo and Guimaraes, R. S. and Liberato, A. and Vassoler, G. L. and Spalla, Eros S. and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {REUNI: Um algoritmo para REduzir tabelas de encaminhamento e UNIformizar a distribuição dos fluxos em redes com topologia hipercubo},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2016},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos}<br />
+                        }<br />
+        </div>
+    </div>
+                    <div class="year">2015</div>
+            <div class="pub">
+        <div>
+            TROIS, C. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; BONA, L. C. E. ; FABRO, M. D. . From software defined network to network defined for software. In: the 30th Annual ACM Symposium, 2015, Salamanca. p. 665.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-p665-trois.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{trois2015,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Trois, C. and Martinello, M. and Bona, L. C. E. and Fabro, M. D.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {From software defined network to network defined for software},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {the 30th Annual ACM Symposium},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2015},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {the 30th Annual ACM Symposium}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            SALDAÑA CERCÓS, SILVIA ; RAMOS, RAMON M. ; EWALD ELLER, ANA C. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; MANOLOVA FAGERTUN, ANNA ; TAFUR MONROY, IDELFONSO . Design of a stateless low-latency router architecture for green software-defined networking. In: SPIE OPTO, 2015, San Francisco.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-93880I.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{saldaña2015,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Saldaña Cercós, Silvia and Ramos, Ramon M. and Ewald Eller, Ana C. and Martinello, M. and Ribeiro, M. R. N. and Manolova Fagertun, Anna and Tafur Monroy, Idelfonso},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Design of a stateless low-latency router architecture for green software-defined networking},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {SPIE OPTO},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2015},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {SPIE OPTO}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            SPALLA, EROS S. ; <a href='http://lattes.cnpq.br/2470233635439757' target='_blank'>MAFIOLETTI, D.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; ROTHENBERG, CHRISTIAN E. ; CAMARGOS, LASARO ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Estrategias para Resiliencia em SDN : Uma Abordagem Centrada em Multi-Controladores Ativamente Replicados. In: XXXIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2015, Vitoria-ES.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-sbrc15-sdn-multi-controller-resilience-eros.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{spalla2015,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Spalla, Eros S. and Mafioletti, D. and Liberato, A. and Rothenberg, Christian E. and Camargos, Lasaro and Villaca, Rodolfo and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Estrategias para Resiliencia em SDN : Uma Abordagem Centrada em Multi-Controladores Ativamente Replicados},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {XXXIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2015},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {XXXIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            CHARPINEL, SERGIO ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> . SDCCN ? Cache de Conteúdo e Estratégia de Encaminhamento Definidos por Software em Redes Orientadas a Conteúdo. In: Workshop de Redes P2P, Dinâmicas, Sociais e Orientadas a Conteúdo (WP2P+2015), 2015, Vitoria-ES.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-tese_9088_VERSÃO%20FINAL.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{charpinel2015,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Charpinel, Sergio and Martinello, M. and Villaca, Rodolfo},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {SDCCN ? Cache de Conteúdo e Estratégia de Encaminhamento Definidos por Software em Redes Orientadas a Conteúdo},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Workshop de Redes P2P, Dinâmicas, Sociais e Orientadas a Conteúdo (WP2P+2015)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2015},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Workshop de Redes P2P, Dinâmicas, Sociais e Orientadas a Conteúdo (WP2P+2015)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            Ivan Nunes ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; LOUREIRO, A. A. F.  . Designing a Low Cost Home WSN for Remote Energy Monitoring and Eletronic Devices Control. In: Workshop of Communication in Critical Embedded Systems (WoCCES2015), 2015, Vitoria-ES.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{ivan2015,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Ivan Nunes and Martinello, M. and Loureiro, A. A. F. },<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Designing a Low Cost Home WSN for Remote Energy Monitoring and Eletronic Devices Control},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Workshop of Communication in Critical Embedded Systems (WoCCES2015)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2015},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Workshop of Communication in Critical Embedded Systems (WoCCES2015)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            OSHIRO, A. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> . Uma proposta de escalonador de migrações de máquinas virtuais baseado na caracterização de uma nuvem privada. In: V Brazilian Symposium on Computing Systems Engineering, 2015, Foz do Iguaçu.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{oshiro2015,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Oshiro, A. and Martinello, M. and Villaca, Rodolfo},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Uma proposta de escalonador de migrações de máquinas virtuais baseado na caracterização de uma nuvem privada},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {V Brazilian Symposium on Computing Systems Engineering},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2015},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {V Brazilian Symposium on Computing Systems Engineering}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            LIMA, D. S. A. ; <a href='http://lattes.cnpq.br/4909197952264922' target='_blank'>GUIMARAES, R. S.</a> ; <a href='http://lattes.cnpq.br/4324881751736449' target='_blank'>VASSOLER, G. L.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> . Avaliação do Uso do OpenFlow na Recuperação de Falhas em Data Centers Centrados nos Servidores. In: XIV Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance 2015), 2015, Pernambuco-Recife.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{lima2015,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Lima, D. S. A. and Guimaraes, R. S. and Vassoler, G. L. and Martinello, M. and Villaca, Rodolfo and Liberato, A.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Avaliação do Uso do OpenFlow na Recuperação de Falhas em Data Centers Centrados nos Servidores},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {XIV Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance 2015)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2015},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {XIV Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance 2015)}<br />
+                        }<br />
+        </div>
+    </div>
+                    <div class="year">2014</div>
+            <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; SPALLA, EROS S. ; <a href='http://lattes.cnpq.br/2470233635439757' target='_blank'>MAFIOLETTI, D.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Balanceamento de Carga em SDN Provido por Comutadores Estocásticos de Prateleira. In: IV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF), 2014, Florianópolis.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-ST2-2.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{liberato2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Liberato, A. and Spalla, Eros S. and Mafioletti, D. and Villaca, Rodolfo and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Balanceamento de Carga em SDN Provido por Comutadores Estocásticos de Prateleira},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            SPALLA, EROS S. ; <a href='http://lattes.cnpq.br/2470233635439757' target='_blank'>MAFIOLETTI, D.</a> ; <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Resiliência no Plano de Controle para Redes Definidas por Software. In: IV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF), 2014, Florianópolis.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-ST2-1.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{spalla2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Spalla, Eros S. and Mafioletti, D. and Liberato, A. and Villaca, Rodolfo and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Resiliência no Plano de Controle para Redes Definidas por Software},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {IV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {IV Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            <a href='http://lattes.cnpq.br/5443992982789294' target='_blank'>LIBERATO, A.</a> ; <a href='http://lattes.cnpq.br/2470233635439757' target='_blank'>MAFIOLETTI, D.</a> ; SPALLA, EROS S. ; <a href='http://lattes.cnpq.br/3755692723547807' target='_blank'>VILLACA, RODOLFO</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . Avaliação de Desempenho de Plataformas para Validação de Redes Definidas por Software. In: WPerformance - XIII Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2014, Brasília.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-008.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{liberato2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Liberato, A. and Mafioletti, D. and Spalla, Eros S. and Villaca, Rodolfo and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Avaliação de Desempenho de Plataformas para Validação de Redes Definidas por Software},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {WPerformance - XIII Workshop em Desempenho de Sistemas Computacionais e de Comunicação},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {WPerformance - XIII Workshop em Desempenho de Sistemas Computacionais e de Comunicação}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            MACEDO, JOSÉ ALEXANDRE ; MEIRA, GUILHERME TEBALDI ; GOMES, ROBERTA LIMA ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; VIEIRA, ALEX BORGES . ES-Aware: Energy and Stability Support for P2P Video Streaming on Mobile Devices. In: the Latin America Networking Conference, 2014, Montevideo. p. 1.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-a3-macedo.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{macedo2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Macedo, José Alexandre and Meira, Guilherme Tebaldi and Gomes, Roberta Lima and Martinello, M. and Vieira, Alex Borges},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {ES-Aware: Energy and Stability Support for P2P Video Streaming on Mobile Devices},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {the Latin America Networking Conference},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {the Latin America Networking Conference}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            VENCIONECK, RAFAEL D. ; <a href='http://lattes.cnpq.br/4324881751736449' target='_blank'>VASSOLER, G. L.</a> ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> ; MARCONDES, CESAR . FlexForward: Enabling an SDN manageable forwarding engine in Open vSwitch. In: 2014 10th International Conference on Network and Service Management (CNSM), 2014, Rio de Janeiro. p. 296.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-07014178.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{vencioneck2014,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Vencioneck, Rafael D. and Vassoler, G. L. and Martinello, M. and Ribeiro, M. R. N. and Marcondes, Cesar},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {FlexForward: Enabling an SDN manageable forwarding engine in Open vSwitch},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {2014 10th International Conference on Network and Service Management (CNSM)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2014},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {2014 10th International Conference on Network and Service Management (CNSM)}<br />
+                        }<br />
+        </div>
+    </div>
+                    <div class="year">2013</div>
+            <div class="pub">
+        <div>
+            RAMOS, RAMON M. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; ROTHENBERG, CHRISTIAN E. . Data Center Fault-Tolerant Routing and Forwarding: An Approach Based on Encoded Paths. In: 2013 Sixth LatinAmerican Symposium on Dependable Computing (LADC), 2013, Rio de Janeiro. p. 104.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-06542612.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{ramos2013,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Ramos, Ramon M. and Martinello, M. and Rothenberg, Christian E.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {Data Center Fault-Tolerant Routing and Forwarding: An Approach Based on Encoded Paths},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {2013 Sixth LatinAmerican Symposium on Dependable Computing (LADC)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2013},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {2013 Sixth LatinAmerican Symposium on Dependable Computing (LADC)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            Oliveira, R. E. ; VITOI, R. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; <a href='http://lattes.cnpq.br/1005553714687743' target='_blank'>RIBEIRO, M. R. N.</a> . KeyFlow: Comutação por Chaves Locais de Fluxos Roteados na Borda via Identificadores Globais. In: Simpósio Brasileiro de Redes de Computadores, 2013, Brasília.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-keyflow.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{oliveira2013,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Oliveira, R. E. and Vitoi, R. and Martinello, M. and Ribeiro, M. R. N.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {KeyFlow: Comutação por Chaves Locais de Fluxos Roteados na Borda via Identificadores Globais},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {Simpósio Brasileiro de Redes de Computadores},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2013},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {Simpósio Brasileiro de Redes de Computadores}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            RAMOS, RAMON M. ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> ; ROTHENBERG, CHRISTIAN E. . SlickFlow: Resilient source routing in Data Center Networks unlocked by OpenFlow. In: 38th Annual IEEE Conference on Local Computer Networks (LCN 2013), 2013, Sydney. p. 606.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                            <a href="http://nerds.ufes.br/download/pub-32-06761297.pdf" class="no_select">Download PDF</a>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{ramos2013,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Ramos, Ramon M. and Martinello, M. and Rothenberg, Christian E.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {SlickFlow: Resilient source routing in Data Center Networks unlocked by OpenFlow},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {38th Annual IEEE Conference on Local Computer Networks (LCN 2013)},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2013},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {38th Annual IEEE Conference on Local Computer Networks (LCN 2013)}<br />
+                        }<br />
+        </div>
+    </div>
+    <div class="pub">
+        <div>
+            MACEDO, JOSÉ ALEXANDRE ; MEIRA, GUILHERME TEBALDI ; FAVARO, R. ; ARTEM, G. ; GOMES, ROBERTA LIMA ; <a href='http://lattes.cnpq.br/7471111924336519' target='_blank'>MARTINELLO, M.</a> . DisTInTo: Uma Ferramenta para Apoiar Experimentos Distribuídos em Larga Escala. In: 19th Brazilian Symposium on Multimedia and the Web - Webmidia, 2013, Salvador.
+        </div>    
+        <div class="links">
+            <div class="showbibtex no_select">Show BibTeX</div>
+                                                            </div>
+        <div class="bibTex">
+            @inproceedings{macedo2013,<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author = {Macedo, José Alexandre and Meira, Guilherme Tebaldi and Favaro, R. and Artem, G. and Gomes, Roberta Lima and Martinello, M.},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title = {DisTInTo: Uma Ferramenta para Apoiar Experimentos Distribuídos em Larga Escala},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle = {19th Brazilian Symposium on Multimedia and the Web - Webmidia},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year = {2013},<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; publisher = {19th Brazilian Symposium on Multimedia and the Web - Webmidia}<br />
+                        }<br />
+        </div>
+    </div>
+            </div>        </p>
+    </section>
+
+        </main>
+        <footer>
+            <div>
+                <div>
+                    <a href="http://ufes.br"><img src="http://nerds.ufes.br/img/png/ufes.png" class="logo"></img></a>
+                </div>
+                <div style="display:inline-block">
+                    <a href="https://www.youtube.com/channel/UCwCDxNqRMDUq9sGGL6BqMmQ" target="_blank" alt="YouTube"><img src="http://nerds.ufes.br/img/svg/youtube.svg " class="contato-icon"></img></a>
+                    <a href="mailto:nerdsufes@gmail.com" alt="E-mail"><img src="http://nerds.ufes.br/img/svg/mail.svg" class="contato-icon"></img></a>
+                    <a href="https://www.instagram.com/nerdsufes/" target="_blank"><img src="http://nerds.ufes.br/img/svg/insta.svg" class="contato-icon"></img></a>
+                </div>
+            </div>
+            <div>
+                <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+                <div><h5>&copy 2017 Fernando Guerra Rodrigues Machado</h5></div>
+            </div>
+        </footer>
+        <a href="#top"><div class="back_to_top"><i class='material-icons'>arrow_drop_up</i></div></a>
+        <script src="http://nerds.ufes.br/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="http://nerds.ufes.br/js/menu.js" type="text/javascript"></script>
+        <script src="http://nerds.ufes.br/js/base.js" type="text/javascript"></script>
+                        </body>
+</html>
+

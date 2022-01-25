@@ -1,0 +1,969 @@
+/* GERAL */ 
+body{
+    padding: 0px;
+    margin: 0px;   
+    display: flex;
+    flex-direction: column; 
+    min-height: 100vh;
+    background-image: url(../img/svg/cabeloApagado.svg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position-x: 50%;
+    background-position-y: 50%;
+}
+html{
+    min-height: 100%;
+}
+.back{
+    padding: 0px;
+    z-index: -1; 
+    height: auto;
+    width: 100%;
+}
+@font-face{
+    font-family: "rbt-l";
+    src: url(../fonts/CODE%20Light.otf);
+}
+@font-face{
+    font-family: "rbt-b";
+    src: url(../fonts/CODE%20Bold.otf);
+}
+@font-face{
+    font-family: "coolvetica";
+    src: url(../fonts/coolvetica%20rg.ttf);
+}
+.anchor{
+    margin-top: -80px;
+    visibility: hidden;
+    height: 80px;
+}
+.clearfix{
+    clear: both;
+}
+/* NAVBAR */
+header{
+    width: 100%;
+    background-color: rgba(2, 127, 211, 0);
+    height: 64px;
+    border: none;
+    margin: 0px;
+    z-index: 4;
+    box-shadow: 1px 3px 10px rgb(77, 77, 77);
+    position: fixed;
+    z-index: 2;
+    box-shadow: none;
+    word-spacing: -2px;
+    display: flex;
+}
+.logos{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 18%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: inline-flex;
+    align-items: center;
+}
+header .logo{
+    height: 80px;
+    width: auto;
+}
+header .ufes{
+    height: 60px;
+    margin-left: auto;
+    width: auto;
+}
+header ul{
+    box-sizing: border-box;    
+    height: 100%;
+    margin: 0px;
+    margin-right: 10px;  
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #1c6fee;
+    float: right;
+    background-color: rgba(0,0,0,0);
+    display: inline-flex;
+    align-items: center;
+}
+header ul li{
+    list-style: none;
+    /*width: 70px;*/
+    padding: 10px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: inline-block;
+    margin-left: 7px;
+    padding: 5px;
+    color: white;
+}
+header ul li:first-child{
+    margin-left: 0px;
+}
+header ul li a{
+    text-transform: uppercase;
+    font-family: sans-serif !important;
+    font-size: 13px;
+    font-family: rbt-b;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: gainsboro;
+    text-rendering: optimizeLegibility;
+    text-decoration: none;
+}
+header .nav-logo{
+    width: 90px;
+    opacity: 0;
+    transition: all 0.1s;
+}
+header .nav-logo img{
+    width: 100%;
+    fill:white;
+}
+.headerFixed{
+    background-color: rgb(0, 140, 255);
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.4);
+    transition: all 0.1s;
+}
+.headerFixed .nav-logo{
+    opacity: 100;
+    transition: all 0.1s;
+}
+.headerFixed ul li a{
+    color: white;
+}
+header ul li a div{
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
+header ul li a div:hover{
+    border-bottom: solid white;
+    cursor: pointer;
+    transition: all 0.1s;
+}
+header > ul{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 10px;
+}
+header > ul:last-child{
+    margin-left: auto;
+    margin-right: 10px;
+}
+.nav-logo div:hover{
+    border-bottom: 0px;
+}
+
+/*CONTEUDO*/
+main{
+    flex:1;
+}
+.content{
+    padding-top: 40px;
+    margin-top: -5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+    position: relative;
+    box-sizing: border-box;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    max-width: 1600px;
+}
+.content h1{
+    padding-left: 10px;
+    font-family: coolvetica;
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-weight: 500;
+    border-bottom: solid 1px orange;
+}
+.content h3{
+    font-family: rbt-b;
+    font-size: 17px;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+.content > article{
+    box-sizing: border-box;
+    min-height: calc(100vh - 63px);
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 22px;
+    letter-spacing:  1px;
+    font-weight: 100;
+    font-size: 16px;
+}
+.content > article > section{
+    display: block;
+    height: 90%;
+    width: 100%;
+    align-self: center;
+}
+.content > article p{
+    padding: 10px;
+    width: 100%;
+    margin: auto;
+}
+.content article ul{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    padding-left: 0px;  
+}
+/*
+.content article p:nth-child(2n){
+    text-align: right;
+}
+.content article div img{
+    width: 100%;
+    height: auto;
+}
+*/
+
+/*lab*/
+#lab > section{
+    display: inline-flex;
+    margin: auto;
+}
+#lab p{
+    width: 70%;
+}
+#lab div{
+    width: 30%;
+    margin: auto;
+}
+#lab img{
+    width: 100%;
+}
+
+/*equipe*/
+.equipe{
+    display: block !important;
+}
+.equipe a{
+    color: #1b76ff;
+    font-size: 12px;
+    font-style: italic;
+}
+.equipe div{
+    margin-top: 0px !important;
+}
+.equipe li{
+    margin-top: 10px;
+}
+.equipe > section{
+    width: 100%;
+}
+.equipe > section > div{
+    width: 100%;
+    margin: 0px;
+}
+.equipe > section > section{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;    
+}
+.equipe div{
+    padding: 10px;
+    width: 280px;
+}
+.equipe span{
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+/*RECURSOS*/
+#recursos ul:first{
+    margin-top: 0px;
+}
+#recursos  li{
+    margin: 10px;
+}
+#recursos li{
+    margin-left: 20px;
+}
+#recursos .images{
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+}
+#recursos .images img{
+    border: solid 8px rgb(0, 136, 209);
+    border-radius: 5px;
+    height:300px;
+    box-shadow: 10px 10px 20px rgba(0, 43, 68, 0.411);
+}
+
+/*PROJETOS*/
+#projetos > section > section{
+    display: flex; 
+    margin: auto;
+    overflow: auto; 
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#projetos a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+#projetos > section > section > a > div{
+    width: 280px;
+    height: 200px;
+    box-shadow: 1px 1px 5px gray;
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: center;
+}
+#projetos a div div{
+    padding: 15px;
+    display: flex;
+    align-items: center; 
+    flex:1;
+    overflow: hidden;
+}
+#projetos a div div h3{
+    text-align: center;
+    width: 100%;
+}
+#projetos section section a div .status{
+    padding: 0px;
+    background-color: rgb(0, 84, 209);
+    width: 100%;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    height: 30px;
+    flex:initial;
+}
+#projetos> section > section > a > div p{
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    color:white;
+    font-weight: bolder;
+}
+#projetos > section > section > a div .status p{
+    padding: 0px;
+}
+#projetos > section > section > a div .done{
+    background-color: gray;
+    font-style: italic;
+} 
+
+/*Projetos Template*/
+.projetotemplate{
+    letter-spacing: 0px;
+}
+
+/*Team Detail*/
+.teamDetail{
+    
+}
+.teamDetail img[class="perfil"]{
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    padding: 0px;
+}
+.teamDetail .perfil{
+    padding-bottom: 20px;
+}
+.teamDetail .infos .name{
+    font-weight: bolder;
+    display: block;
+    font-size: 25px;
+    margin-bottom: 5px; 
+}
+.teamDetail .infos .email{
+    display: block;
+    margin-bottom: 5px;
+}
+.teamDetail > div{
+    display: flex;
+    align-items: center;
+}
+.teamDetail .pubDiv{
+    display: block;
+}
+.teamDetail .pubDiv > div{
+}
+.teamDetail .infos{
+    padding: 40px;
+}
+.teamDetail h4, .teamDetail h3{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: initial;
+    font-weight: bolder;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.teamDetail h4{
+    font-size: 15px;
+}
+.teamDetail span[class="p_title"]{
+    font-weight: bold;
+    font-size: 15px;
+    display: block;
+    letter-spacing: 1px;
+}
+.teamDetail .projetos{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: initial;
+    margin-top: 60px;
+}
+.teamDetail .projetos .projeto{
+    margin-bottom: 10px;
+}
+.projStatus{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*FOOTER*/
+footer{
+    background: rgb(59, 59, 59);
+    position: static;
+    bottom: 0px;
+    box-sizing: border-box;
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px; 
+    color: rgb(139, 139, 139);
+    padding: 30px;
+}
+footer img{
+    height: 100px;
+    width: auto;
+}
+footer h3{
+    color: rgb(139, 139, 139);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+footer h5{
+    color: rgb(139, 139, 139);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+footer a{
+    color: rgb(139, 139, 139);
+}
+footer .logo{
+    height: 40px;
+}
+footer > div{
+    display: flex;
+    align-items: flex-end;
+}
+footer > div > div:first-child{
+    margin-right: auto;
+}
+footer .contato-icon{
+    height: 30px;
+    margin: 5px;
+    fill: gainsboro;
+    color: gray !important;
+}
+
+
+.vitrine{
+    background-image: url("../img/svg/back4.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.vitrine section{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: 0;
+    top: 0px;
+    display: inline-flex;
+    /*background-color: rgba(0, 255, 221, 0.6);*/
+}
+.vitrine > section > div{
+    margin: auto;
+    width: 25%;
+}
+.vitrine .logo{
+    margin: auto;
+}
+.vitrine h1{
+    margin: auto;
+    font-size: 40px;
+    text-align: center;
+    color: #b0cccf
+}
+.vitrine h3{
+    margin:auto;
+    font-size: 20px;
+    color: #b0cccf
+}
+.vitrine img{
+    width: 100%;
+}
+
+
+/*Projeto Pag*/
+.projetotemplate p{
+    letter-spacing: 1px;
+}
+.projetotemplate p b{
+    letter-spacing: 4px;
+}
+
+/*download page*/
+.download-page > ul{
+    padding: 0px;
+}
+.download-page .download-group{
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px 10px gray; 
+}
+.download-page .download-group > div:hover{
+    cursor: pointer;
+}
+.download-page .download-group > div{
+    height: 40px;
+    display: flex;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    align-items: center;
+}
+.download-page .download-group div i{
+    margin-left: auto;
+    transform: rotate(0rad);
+    transition: all 0.3s;
+}
+.download-page .download-group div .icon-rotate{
+    transform: rotate(3.14rad);
+    transition: all 0.3s;
+}
+.download-page .download-group ul{
+    list-style: none;
+    border-top: solid 2px rgba(110, 110, 110, 0.5);
+    padding: 10px;
+    display: none;
+}
+.download-page .download-group > ul > li{
+    margin-bottom: 10px;
+}
+.download-page .download-group > ul > li:last-child{
+    margin-bottom: 0px;
+}
+.download-page .download-group > ul > li {
+    margin: 0px;
+    margin-bottom: 20px;
+    border: solid 1px rgba(110, 110, 110, 0.5);
+    padding: 10px;
+}
+.download-page .download-group > ul p{
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.download-page .download-group > ul > li > div > a{
+    color: rgb(68, 0, 255);
+    letter-spacing: 0px;
+    font-weight: bold;
+}
+.download-page .download-group > ul > li > div > h1{
+    margin-right: auto;
+}
+
+.admin-login{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 100%;
+}
+.admin-login form{
+    display: block;
+    margin: auto;
+}
+.admin-login form input{
+    margin-top: 10px;
+}
+.admin .menu ul{
+    display: inline-flex;
+}
+.admin .menu ul li{
+    border: 1px solid gray;
+    list-style: none;
+}
+.admin .menu ul li:first-child{
+    border-top-left-radius: 10px;
+}
+.admin .menu ul li:last-child{
+    border-top-right-radius: 10px;
+}
+.admin .menu ul li a div{
+    height: 15px;
+    margin: 0px;
+    padding: 15px;
+}
+.admin .menu .atual{
+    border-bottom: none;
+}
+.tutorial > section{
+    display: flex;
+    align-items: flex-start;
+}
+.tutorial > section > div{
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: content-box;
+    width: 70%;
+}
+.tutorial a{
+    color: black;
+}
+.tutorial .menu{
+    width: 30%;
+    margin-right: 10px;
+}
+.tutorial .menu p{
+    margin-bottom: 10px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    border-bottom: solid 1px rgba(110, 110, 110, 0.3);
+}
+.tutorial .menu ul{
+    list-style: none;
+    padding: 0px;
+}
+.tutorial .menu li{
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.tutorial .item{
+    margin-bottom: 80px;
+    letter-spacing: 1px;    
+}
+.tutorial .item:last-child{
+    margin-bottom: 0px;
+}
+.tutorial .item h4{
+    margin: 0px;
+    margin-bottom: 5px;
+}
+.tutorial .item ul{
+    padding: 0px;
+    list-style: none;
+}
+.tutorial .item li{
+    margin-left: 18px;
+    margin-bottom: 2px;
+    letter-spacing: 1px;
+}
+.tutorial .item li:last-child{
+    margin-bottom: 0px;
+}
+.tutorial .item b{
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.tutorial .item p{
+    letter-spacing: 1px;
+}
+
+.photos{
+    margin-left: 0px;
+    margin-right: 0px;
+    overflow: visible;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.photos > div{
+    margin: 10px; 
+
+}
+
+.photos iframe{
+    margin: 0px !important
+}
+
+.publications, .teamDetail{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: initial;
+    font-size: 14px;    
+}
+
+.publications .pub, .teamDetail .pub{
+    margin-bottom: 20px;
+    margin-top: 20px;  
+}
+
+.publications .links, .teamDetail .links{
+    margin-top: 10px;
+}
+
+.publications .bibTex, .teamDetail .bibTex{
+    padding: 10px;
+    border: solid 1px black;
+    background-color: gainsboro;
+    display: none;
+}
+
+.publications .links div, .publications .links a, .teamDetail .links div, .teamDetail .links a{
+    font-size: 13px;
+    display: inline-block;
+    margin: 0px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #0066ff;
+    color:white;
+    padding: 7px;
+    text-decoration: none;
+    font-weight: 600;
+    box-shadow: 3px 3px 5px #b9b9b9;
+}
+.publications .links div:hover, .publications .links a:hover, .teamDetail .links div:hover, .teamDetail .links a:hover{
+    cursor: pointer;
+}
+
+.publications .year, .publications .type, .teamDetail .year, .teamDetail .type{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.publications .type, .teamDetail .type{
+    margin-top: 60px;
+    letter-spacing: 2px;
+}
+.publications .type:first-child{
+    margin-top: 20px;
+}
+
+.back_to_top{
+    color: white !important;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    background-color: #0066ff;
+    border-radius: 100%;
+    display: flex;
+}
+.back_to_top i{
+    margin: auto;
+    font-size: 35px;
+}
+.no_select {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome and Opera */
+}
+
+@media only screen and (min-width: 1320px){
+    .hiddenD{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1320px){
+    header{
+        background-color:rgb(0, 140, 255);
+        box-shadow: 3px 3px 10px rgba(0,0,0,0.4);
+        display: block;
+    }
+    header ul li a{
+        color: white;
+    }
+    .menuOpen{
+        height: calc(100vh - 63px) !important;
+        transition: height 0.4s;
+        z-index: 100;
+    }
+    .menuClose{
+        height: 0px;
+        transition: height 0.4s;
+    }
+    header ul{
+        display: block;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0px;
+        background-color: rgb(0, 140, 255);
+        margin: 0px;
+    }
+    header ul[id=menu]{
+        overflow-y: scroll;
+    }
+    header ul li{
+        display: block;
+        margin: auto;
+        height: 50px;
+    }
+    header ul li:hover{
+        background-color:rgba(63, 51, 172, 0.336);
+        transition: all 0.3s;
+    }
+    header ul li a{
+        display: flex;
+    }
+    header ul li a div{
+        height: 50px;
+        box-sizing: border-box;
+        margin: auto;
+        display: flex;
+        align-items: center;
+    }
+    header ul li a div:hover{
+        border: none;
+    }
+    header > ul:first-child {
+        display: inline-flex;
+    }
+    header > ul:first-child > li{
+        margin: 0px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    header > ul:last-child{
+        margin: 0px;
+        margin-top: -1px;
+    }
+    .menuButton{
+        width: auto;
+        margin-left: auto !important;
+        padding: 0px;
+        height: 100%;
+    }
+    .menuButton a{
+        height: 100%;
+    }
+    .menuButton li a div{
+        float: right;
+        width: auto;
+        box-sizing: content-box;
+        height: 100%;
+        padding-left: 20px;
+        padding-right: 20px;    
+        user-select: none;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    .content > article p{
+        padding: 0px;
+        margin: 0px;
+        width: 100% !important;
+    }
+    .hiddenM{
+        display: none;
+    }
+    .vitrine > section > div{
+        width: 40%;
+    }
+    .teamDetail .perfil{
+        display: block;
+    }
+    .teamDetail .perfil > div:first-child{
+        width: 200px;
+        margin: auto;
+    }
+    .teamDetail .perfil > div{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #recursos .images img{
+        box-sizing: border-box;
+        width: 100%;
+        height: 100%;
+        margin: 40px;
+    }
+    .tutorial > section{
+        display: block;
+    }
+    .tutorial > section > div{
+        width: 100% !important;
+    }
+    .tutorial .menu{
+        margin: 0px;
+        margin-bottom: 10px;
+    }
+    footer > div{
+        margin: 0px;
+        display: block;
+    }
+    footer > div:last-child{
+        margin: 0px;
+    }
+    footer > div > div{
+        margin: 0px;
+        margin-bottom: 10px;
+    }
+    footer > div:last-child > div:last-child{
+        margin: 0px;
+    }
+    .back_to_top{
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    #lab p{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #projetos > section > section > a{
+        box-sizing: border-box;
+        width: 100%;    
+    }
+    #projetos > section > section > a > div{
+        box-sizing: border-box;
+        max-width: 90%;
+        min-height: 200px;
+        margin: auto;
+    }
+    #projetos > section > section > a > div h3{
+        word-wrap: break-word;
+        font-size: 14px;
+    }
+    .content{
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: 10px;
+        margin-right: 10px;
+        width: initial;
+    }
+}
+
+@supports(-moz-appearance: none){
+    .content{
+        padding-top: 80px;
+    }
+}
