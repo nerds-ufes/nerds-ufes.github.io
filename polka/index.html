@@ -58,7 +58,7 @@
       <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
         <h1><b>PolKA</b></h1>
-        <h2>Polynomial Key-based Source Routing's webpage</h2>
+        <h2>Polynomial Key-based Architecture for Source Routing</h2>
         <p><a class="btn btn-lg btn-primary" href="https://github.com/nerds-ufes/polka" role="button">View on GitHub &raquo;</a></p>
       </div>
     </div> <!-- /container -->
@@ -67,18 +67,29 @@
       <div class="row">
         <div class="col-md-7">
           <h2>What is PolKA?</h2>
-          <p>PolKA is a RNS-based SR scheme that uses binary polynomial arithmetic (Galois field (GF) of order 2 or GF(2), where main benefit is to enable the reuse of commodity network functions based on polynomial arithmetic.</p>
+          <ul>
+          <p>Source routing (SR) is a prominent alternative to table-based routing for reducing the number of network states. However, traditional SR approaches, based on Port Switching, still maintain a state in the packet by using a header rewrite operation. The residue number system (RNS) is a promising way of executing fully stateless SR, in which forwarding decisions at core nodes rely on a simple modulo operation over a route label. Nevertheless, such operation over integer arithmetic is not natively supported by commodity network hardware. Thus, we propose a novel RNS-based SR scheme, named PolKA, that explores binary polynomial arithmetic using Galois field (GF) of order 2. We evaluate PolKA in comparison to Port Switching by implementing emulated and hardware prototypes using P4 architecture. Results show that PolKA can achieve equivalent performance, while providing advanced routing features, such as fast failure reaction and agile path migration.</p>
+          </ul>
         </div>
 
         <div class="col-md-5">
           <!-- 4:3 aspect ratio -->
           <div class="span4">
               <!-- <iframe width="470" height="350" src="https://www.youtube.com/embed/waZKLWolZqs" frameborder="0" allowfullscreen></iframe> -->
-             <img src="images/architecture.png" alt="" width="100%" height="100%">
+             <img src="images/polka-how-to-work.gif" alt="ARCH" width="100%" height="100%">
           </div>
         </div>
-      </div>
 
+        <div class="col-md-7">
+          <h2>How does PolKA work?</h2>
+          <ul>
+            <p>- routeID: a route identifier calculated using the CRT.</p>
+            <p>- nodeID (Irreducible polynomial): to identify each core node.</p>
+            <p>- portID: to identify the ports of each core node.</p>
+            <h2><img src="images/modoperation.png" alt="MOD" width="300" height="50"/></h2>
+          </ul>
+        </div>
+      </div>
       <div class="row">
 
         <!-- <div class="col-md-4">
