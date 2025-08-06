@@ -41,19 +41,28 @@ html{
     clear: both;
 }
 /* NAVBAR */
-header{
-    width: 100%;
-    background-color: rgba(2, 127, 211, 0);
-    height: 64px;
+header#nav{
+    width: 100% !important;
+    background-color: rgb(0, 140, 255) !important;
+    height: 64px !important;
     border: none;
     margin: 0px;
-    z-index: 4;
-    box-shadow: 1px 3px 10px rgb(77, 77, 77);
-    position: fixed;
-    z-index: 2;
-    box-shadow: none;
+    z-index: 1000 !important;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.4) !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
     word-spacing: -2px;
-    display: flex;
+    display: flex !important;
+}
+.homepage header#nav{
+    background-color: transparent !important;
+    box-shadow: none !important;
+    transition: all 0.3s;
+}
+.homepage header#nav.headerFixed{
+    background-color: rgb(0, 140, 255) !important;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.4) !important;
 }
 .logos{
     width: 100%;
@@ -108,13 +117,13 @@ header ul li a{
     font-family: rbt-b;
     letter-spacing: 1px;
     word-spacing: 1px;
-    color: gainsboro;
+    color: white;
     text-rendering: optimizeLegibility;
     text-decoration: none;
 }
 header .nav-logo{
     width: 90px;
-    opacity: 0;
+    opacity: 100;
     transition: all 0.1s;
 }
 header .nav-logo img{
@@ -122,8 +131,8 @@ header .nav-logo img{
     fill:white;
 }
 .headerFixed{
-    background-color: rgb(0, 140, 255);
-    box-shadow: 3px 3px 10px rgba(0,0,0,0.4);
+    background-color: rgb(0, 140, 255) !important;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.4) !important;
     transition: all 0.1s;
 }
 .headerFixed .nav-logo{
@@ -131,7 +140,7 @@ header .nav-logo img{
     transition: all 0.1s;
 }
 .headerFixed ul li a{
-    color: white;
+    color: white !important;
 }
 header ul li a div{
     height: 20px;
@@ -161,8 +170,7 @@ main{
     flex:1;
 }
 .content{
-    padding-top: 40px;
-    margin-top: -5px;
+    padding-top: 125px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
@@ -177,6 +185,7 @@ main{
     max-width: 1600px;
 }
 .content h1{
+    padding-top: 10px;
     padding-left: 10px;
     font-family: coolvetica;
     font-size: 20px;
@@ -529,6 +538,9 @@ footer .contato-icon{
 }
 
 /*download page*/
+.download-page{
+    padding-top: 80px;
+}
 .download-page > ul{
     padding: 0px;
 }
@@ -623,6 +635,9 @@ footer .contato-icon{
 }
 .admin .menu .atual{
     border-bottom: none;
+}
+.tutorial{
+    padding-top: 80px;
 }
 .tutorial > section{
     display: flex;
@@ -794,67 +809,132 @@ footer .contato-icon{
 
 @media only screen and (max-width: 1320px){
     header{
-        background-color:rgb(0, 140, 255);
-        box-shadow: 3px 3px 10px rgba(0,0,0,0.4);
-        display: block;
+        background-color:rgb(0, 140, 255) !important;
+        box-shadow: 3px 3px 10px rgba(0,0,0,0.4) !important;
+        display: block !important; /* Voltar para block para funcionar como antes */
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        z-index: 1000 !important;
+        height: 64px; /* Altura fixa inicialmente */
+    }
+    .homepage header{
+        background-color: transparent !important;
+        box-shadow: none !important;
+        transition: all 0.3s;
+    }
+    .homepage header.headerFixed{
+        background-color: rgb(0, 140, 255) !important;
+        box-shadow: 3px 3px 10px rgba(0,0,0,0.4) !important;
     }
     header ul li a{
         color: white;
     }
-    .menuOpen{
-        height: calc(100vh - 63px) !important;
-        transition: height 0.4s;
-        z-index: 100;
+    
+    /* Estados do menu - usar seletores mais específicos */
+    header ul#menu.menuOpen{
+        height: calc(100vh - 64px) !important;
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        transition: all 0.4s;
+        z-index: 1000;
+        background-color: rgb(0, 140, 255) !important;
+        overflow-y: auto;
+        position: fixed !important;
+        top: 64px !important;
+        left: 0 !important;
+        right: 0 !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        box-sizing: border-box !important;
     }
-    .menuClose{
-        height: 0px;
-        transition: height 0.4s;
+    header ul#menu.menuClose{
+        height: 0px !important;
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        transition: all 0.4s;
+        overflow: hidden !important;
     }
+    
+    /* Por padrão o menu fica escondido */
+    header ul#menu{
+        display: none !important;
+        position: fixed !important;
+        top: 64px;
+        left: 0;
+        width: 100%;
+        background-color: rgb(0, 140, 255);
+        z-index: 1000;
+        margin: 0;
+        padding: 0;
+    }
+    
     header ul{
-        display: block;
         box-sizing: border-box;
         width: 100%;
         padding: 0px;
         background-color: rgb(0, 140, 255);
         margin: 0px;
     }
-    header ul[id=menu]{
-        overflow-y: scroll;
-    }
+    
     header ul li{
         display: block;
-        margin: auto;
+        margin: 0;
         height: 50px;
+        width: 100%;
+        background-color: rgb(0, 140, 255);
+        border-bottom: 1px solid rgba(255,255,255,0.1);
     }
+    
     header ul li:hover{
         background-color:rgba(63, 51, 172, 0.336);
         transition: all 0.3s;
     }
+    
     header ul li a{
-        display: flex;
-    }
-    header ul li a div{
+        display: flex !important;
+        width: 100% !important;
         height: 50px;
+        color: white !important;
+        text-decoration: none !important;
+        padding: 0 20px;
         box-sizing: border-box;
-        margin: auto;
-        display: flex;
         align-items: center;
     }
+    
+    header ul li a div{
+        height: auto !important;
+        display: flex !important;
+        align-items: center !important;
+        width: 100% !important;
+        color: white !important;
+        font-size: 13px !important;
+        font-family: rbt-b;
+        text-transform: uppercase;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    
     header ul li a div:hover{
         border: none;
     }
+    
     header > ul:first-child {
         display: inline-flex;
+        height: 64px;
+        position: relative;
+        z-index: 1001;
     }
     header > ul:first-child > li{
         margin: 0px;
         margin-left: 10px;
         margin-right: 10px;
     }
-    header > ul:last-child{
-        margin: 0px;
-        margin-top: -1px;
-    }
+    
     .menuButton{
         width: auto;
         margin-left: auto !important;
@@ -865,17 +945,26 @@ footer .contato-icon{
         height: 100%;
     }
     .menuButton li a div{
-        float: right;
         width: auto;
         box-sizing: content-box;
         height: 100%;
         padding-left: 20px;
         padding-right: 20px;    
         user-select: none;
+        float: none !important;
     }
 }
 
 @media only screen and (max-width: 900px){
+    .content{
+        padding-top: 160px;
+    }
+    .download-page{
+        padding-top: 100px;
+    }
+    .tutorial{
+        padding-top: 100px;
+    }
     .content > article p{
         padding: 0px;
         margin: 0px;
